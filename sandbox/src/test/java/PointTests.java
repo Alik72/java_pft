@@ -1,6 +1,6 @@
 import org.testng.Assert;
 import org.testng.annotations.Test;
-import ru.stqa.pft.sandbox.Point;
+import ru.stqa.pft.addressbook.sandbox.Point;
 
 /**
  * Created by Homosapiens on 30.04.2016.

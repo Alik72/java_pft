@@ -1,4 +1,4 @@
-package ru.stqa.pft.sandbox;
+package ru.stqa.pft.addressbook.sandbox;
 
 /**
  * Created by Homosapiens on 30.04.2016.
