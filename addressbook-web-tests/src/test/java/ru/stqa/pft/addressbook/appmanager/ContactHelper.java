@@ -56,4 +56,16 @@ public class ContactHelper extends HelperBase{
   public void selectContact() {
     click(By.name("selected[]"));
   }
+
+  public void initContactModification() {
+    click(By.cssSelector("img[alt=\"Edit\"]"));
+
+
+  }
+
+  public void submitContactModification() {
+    click(By.cssSelector("input[value=\"Update\"]"));
+    //click(By.xpath("//input[22]"));// тот же локатор только на xpath
+   
+  }
 }
