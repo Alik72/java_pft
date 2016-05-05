@@ -66,6 +66,6 @@ public class ContactHelper extends HelperBase{
   public void submitContactModification() {
     click(By.cssSelector("input[value=\"Update\"]"));
     //click(By.xpath("//input[22]"));// тот же локатор только на xpath
-   
+
   }
 }
